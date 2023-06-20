@@ -261,6 +261,7 @@ function UserProfile(props) {
                   sx={{ height: 120, marginTop: -2 }}
                   image="store2.webp"
                   title="green iguana"
+                  alt="store picture"
                 />
 
               </CardActionArea>
